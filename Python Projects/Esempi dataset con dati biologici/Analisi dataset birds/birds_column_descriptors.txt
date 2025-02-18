@@ -1,0 +1,11 @@
+Column Descriptors:
+
+name: Common name of the bird species
+species: Scientific taxonomic species name
+family: Taxonomic family classification
+habitat: Natural environment where the species typically lives
+place_of_found: Geographical locations where the species is commonly found
+diet: Primary food sources and feeding habits
+description: Detailed physical and behavioral characteristics
+weight_kg: Average weight in kilograms
+image: URL to species image
