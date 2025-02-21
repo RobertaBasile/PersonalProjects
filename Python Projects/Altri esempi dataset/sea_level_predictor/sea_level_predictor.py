@@ -67,4 +67,12 @@ def draw_plot():
 
     # Save plot
     plt.savefig('sea_level_plot.png')
+    
+   # Show plot
+    plt.show()
+    
     return plt.gca()
+
+# Main function to execute the draw_plot function
+if __name__ == "__main__":
+    draw_plot()
